@@ -19,4 +19,4 @@ There are 2 ways to install.
         or second executable file
     refer file for compilation and execution 
     C:\iverilog\samples --> Quick_Start.txt
-    ![image](https://user-images.githubusercontent.com/16399079/186597893-4879a6f5-6f48-489e-8a91-83ffe411a39f.png)
+   ![image](https://user-images.githubusercontent.com/16399079/186598131-52e1b4d9-25e5-4d34-b20f-d4943bcd990e.png)
